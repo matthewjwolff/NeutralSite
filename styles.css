@@ -1,0 +1,15 @@
+body {
+    color: #222;
+    text-align: center;
+}
+
+.jumbotron {
+    background: url('./img/jumbo.jpg');
+    background-size: cover;
+}
+
+.navbar {
+    margin: auto;
+    width: 60%;
+    color: #eee;
+}
