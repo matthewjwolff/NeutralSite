@@ -13,3 +13,12 @@ body {
     width: 60%;
     color: #eee;
 }
+
+.navbar-img {
+    height: 50;
+    padding: 10;
+}
+
+.navbar-nav li {
+    list-style-type: none;
+}
