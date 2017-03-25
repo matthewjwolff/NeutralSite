@@ -12,6 +12,12 @@ body {
     margin: auto;
     width: 60%;
     color: #eee;
+    background-color: #000;
+}
+
+.navbar-right {
+    /* override bootstrap */
+    margin-right: auto;
 }
 
 .navbar-img {
