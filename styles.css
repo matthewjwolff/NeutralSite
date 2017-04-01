@@ -13,6 +13,9 @@ body {
     width: 60%;
     color: #eee;
     background-color: #000;
+    border-top-color: #ed1d32;
+    border-bottom-color: #3953a5;
+    border-width: 3;
 }
 
 .navbar-right {
