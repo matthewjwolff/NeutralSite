@@ -31,3 +31,22 @@ body {
 .navbar-nav li {
     list-style-type: none;
 }
+
+.panel {
+    /* whitespace inside border */
+    padding: 2px;
+    /* Set intended size of flex boxes. Overrides default of sizing according to content */
+    /* Flexbox by default prevents growing but allows shrinking */
+    flex-basis: 400px;
+    /* whitespace outside border (between elements and above/below) */
+    margin: 2px;
+}
+
+.flex-contain {
+    display: flex;
+    /* Allow content to wrap; do not force on one line */
+    flex-wrap: wrap;
+    width: 80%;
+    /* Need auto margin to make width kick in */
+    margin: auto;
+}
