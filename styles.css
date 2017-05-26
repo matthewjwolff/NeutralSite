@@ -32,14 +32,23 @@ body {
     list-style-type: none;
 }
 
+.navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-brand:hover {
+    color: inherit;
+}
+
 .panel {
     /* whitespace inside border */
     padding: 2px;
     /* Set intended size of flex boxes. Overrides default of sizing according to content */
     /* Flexbox by default prevents growing but allows shrinking */
-    flex-basis: 400px;
+    flex-basis: 350px;
+    height: 200px;
     /* whitespace outside border (between elements and above/below) */
-    margin: 2px;
+    margin: 10px;
 }
 
 .flex-contain {
@@ -49,4 +58,5 @@ body {
     width: 80%;
     /* Need auto margin to make width kick in */
     margin: auto;
+    justify-content: center;
 }
