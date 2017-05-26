@@ -1,6 +1,7 @@
 body {
     color: #222;
     text-align: center;
+    background-color: #ddd;
 }
 
 .jumbotron {
@@ -49,6 +50,15 @@ body {
     height: 200px;
     /* whitespace outside border (between elements and above/below) */
     margin: 10px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+img {
+    max-width: 100%;
 }
 
 .flex-contain {
