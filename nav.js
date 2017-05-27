@@ -1,5 +1,6 @@
 $(document).ready(() => {
     $("#nav").load("bar.html")
+    $("#footer").load("footer.html")
 })
 
 $(document).on("keypress", (e) => {
