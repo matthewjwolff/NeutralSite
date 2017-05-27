@@ -11,7 +11,7 @@ $(document).on("keypress", (e) => {
                 $(document).on("keypress", (e) => {
                     $(document).off()
                     if(e.key = "g")
-                        window.location = "fag.mov"
+                        window.location = "fag.webm"
                 })
             }
         })
