@@ -1,0 +1,24 @@
+{
+  "name": "neutralsite",
+  "version": "1.0.0",
+  "description": "Web site for Neutral Snap",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewjwolff/NeutralSite.git"
+  },
+  "author": "mjw",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/matthewjwolff/NeutralSite/issues"
+  },
+  "homepage": "https://github.com/matthewjwolff/NeutralSite#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "vue": "^2.3.3"
+  }
+}

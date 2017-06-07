@@ -70,3 +70,29 @@ img {
     margin: auto;
     justify-content: center;
 }
+
+table {
+    margin: auto;
+}
+
+thead tr {
+    background-color: #ed1d32;
+    color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #aaaaaa;
+    color: #000000;
+}
+
+tbody tr:nth-child(odd) {
+    color: #000000;
+}
+
+td {
+    padding: 8px;
+}
+
+#footer {
+    margin-top: 8px;
+}
