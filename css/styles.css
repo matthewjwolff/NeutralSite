@@ -5,7 +5,7 @@ body {
 }
 
 .jumbotron {
-    background: url('./img/jumbo.jpg');
+    background: url('/img/jumbo.jpg');
     background-size: cover;
 }
 
