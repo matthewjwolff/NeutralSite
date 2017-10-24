@@ -3,8 +3,8 @@ var vm = new Vue({
     el: '#songlist',
     data: {
         songs: [
-            {title: "this", artist: "isn't"},
-            {title: "done", artist: "yet"}
+            {title: "Take On Me", artist: "a-ha"},
+            {title: "Dear Maria, Count Me In", artist: "All Time Low"}
         ]
     }
 })
