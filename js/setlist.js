@@ -39,7 +39,7 @@ var vm = new Vue({
             {title: "Everybody Talks", artist: "Neon Trees"},
             {title: "Absolutely (Story of a Girl)", artist: "Nine Days"},
             {title: "Little Talks", artist: "Of Monsters and Men"},
-            {title: "I Write Sins Not Tragedies", artist: "Panice At The Disco"},
+            {title: "I Write Sins Not Tragedies", artist: "Panic! At The Disco"},
             {title: "Bulls On Parade", artist: "Rage Against The Machine"},
             {title: "Killing In The Name", artist: "Rage Against The Machine"},
             {title: "Dani California", artist: "Red Hot Chili Peppers"},
