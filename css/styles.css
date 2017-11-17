@@ -27,6 +27,8 @@ body {
 .navbar-img {
     height: 50;
     padding: 10;
+    background-color: #000000;
+    border-radius: 15px;
 }
 
 .navbar-nav li {
