@@ -5,13 +5,13 @@ $(document).ready(() => {
 
 $(document).on("keypress", (e) => {
     $(document).off()
-    if(e.key = "f") {
+    if(e.key == "f") {
         $(document).on("keypress", (e) => {
             $(document).off()
-            if(e.key = "a"){
+            if(e.key == "a"){
                 $(document).on("keypress", (e) => {
                     $(document).off()
-                    if(e.key = "g")
+                    if(e.key == "g")
                         window.location = "fag.webm"
                 })
             }
