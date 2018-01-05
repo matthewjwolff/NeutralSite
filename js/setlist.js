@@ -48,9 +48,11 @@ var vm = new Vue({
             {title: "Born To Be Wild", artist: "Steppenwolf"},
             {title: "Semi-Charmed Life", artist: "Third Eye Blind"},
             {title: "You Really Got Me", artist: "Van Halen"},
+            {title: "Check Yes, Juliet", artist: "We The Kings"},
             {title: "Teenage Dirtbag", artist: "Wheatus"},
             {title: "Seven Nation Army", artist: "The White Stripes"},
-            {title: "Play That Funky Music", artist: "Wild Cherry"}
+            {title: "Play That Funky Music", artist: "Wild Cherry"},
+            {title: "Ocean Avenue", artist: "Yellowcard"}
         ]
     }
 })
