@@ -13,6 +13,7 @@ var vm = new Vue({
             {title: "All The Small Things", artist: "blink-182"},
             {title: "I Melt With You", artist: "Bowling For Soup"},
             {title: "1985", artist: "Bowling For Soup"},
+            {title: "The Great Escape", artist: "Boys Like Girls"},
             {title: "In One Ear", artist: "Cage The Elephant"},
             {title: "Closer", artist: "The Chainsmokers"},
             {title: "Tubhumping", artist: "Chumbawamba"},
